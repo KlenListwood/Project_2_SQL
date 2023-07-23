@@ -51,12 +51,12 @@
 
 
 ### 5. Результат
-Результат отражён в [ноутбуке с выполненными заданиями и выводами](https://github.com/KlenListwood/Project-1_hh-database/blob/Main(Project1)/Project_1/Project-1_Karpov.ipynb)
+Результат отражён в [ноутбуке с выполненными заданиями и выводами](https://github.com/KlenListwood/Project_2_SQL/blob/P2_origin/Project_2/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### 6. Выводы
-В ходе выполнения проекта выполнен анализ данных и сделаны как необходимые выводы по каждому блоку, так и общий вывод.
+В ходе выполнения проекта выполнен анализ данных, выводы также содержатся в [ноутбуке](https://github.com/KlenListwood/Project_2_SQL/blob/P2_origin/Project_2/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb).
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
